@@ -68,4 +68,20 @@ El proyecto muestra que, para este conjunto de datos y tamaño de muestra, un mo
 - `README.md`: descripción general del proyecto.
 - `requirements.txt`: dependencias del proyecto.
 
+## Project Information
 
+- Version: 1.0
+
+- Status: Production Release
+
+- Release Date: July 2026
+
+- Country: Costa Rica
+
+- Type: Portfolio Project
+
+- Language: Python
+
+---
+
+This project represents the first professional data analytics project developed as part of my portfolio.
